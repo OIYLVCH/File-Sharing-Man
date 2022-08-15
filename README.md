@@ -35,7 +35,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
+git clone https://github.com/mrismanaziz/TERNAK LELE
 cd File-Sharing-Man
 pip3 install -r requirements.txt
 cp sample_config.env config.env
